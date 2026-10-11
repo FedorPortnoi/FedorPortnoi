@@ -129,6 +129,7 @@ Client work: I build the sites and handle **SEO / GEO / AEO** (getting found on 
 | ⚖️ | **[gavrilovmv.ru](https://gavrilovmv.ru)** | Accounting & legal firm | SEO/GEO/AEO audit and fixes: **site audit score 17 → 75 / 100**, a new blog and case studies, Google Search Console + Yandex Webmaster set up |
 | 🧖 | **[банныймаркетинг.рф](https://xn--80aabkjsejqiag9a4a2k.xn--p1ai/)** | Marketing agency for bathhouse & thermal spa complexes | Ongoing SEO, analytics, lead forms connected to email and a Telegram bot |
 | 🔴 | **[book-red-light.pages.dev](https://book-red-light.pages.dev)** | Red-light therapy studio, Indianapolis | **Booking system** in React + Supabase (auth, row-level security, realtime slots) that the studio and its clients use every day |
+| 📇 | **[4kub.ru](https://4kub.ru)** | My own product site (4KUB CRM) | Design, build, ongoing SEO |
 | 🕵️ | **[shtirletzsled.ru](https://shtirletzsled.ru)** | My own product site | Design, copy, structured data, IndexNow, ongoing SEO |
 | 🧭 | **[flada.pages.dev](https://flada.pages.dev)** | My own product site | Design and build |
 
