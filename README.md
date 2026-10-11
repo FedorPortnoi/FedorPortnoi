@@ -123,15 +123,15 @@ A separate U.S. product forked from the 4KUB core, rebuilt for American small bu
 
 Client work: I build the sites and handle **SEO / GEO / AEO** (getting found on Google, Yandex and AI search).
 
-| | Website | What it is | What I do |
-|:-:|---|---|---|
-| 🏗️ | **[gkverum.ru](https://gkverum.ru)** | Renovation company, Krasnodar | Built the whole site from scratch: custom **WordPress block theme + PHP plugin**, JSON-LD structured data, sitemaps, `llms.txt` for AI search, analytics goals, Python deploy tooling |
-| ⚖️ | **[gavrilovmv.ru](https://gavrilovmv.ru)** | Accounting & legal firm | SEO/GEO/AEO audit and fixes: **site audit score 17 → 75 / 100**, a new blog and case studies, Google Search Console + Yandex Webmaster set up |
-| 🧖 | **[банныймаркетинг.рф](https://xn--80aabkjsejqiag9a4a2k.xn--p1ai/)** | Marketing agency for bathhouse & thermal spa complexes | Ongoing SEO, analytics, lead forms connected to email and a Telegram bot |
-| 🔴 | **[book-red-light.pages.dev](https://book-red-light.pages.dev)** | Red-light therapy studio, Indianapolis | **Booking system** in React + Supabase (auth, row-level security, realtime slots) that the studio and its clients use every day |
-| 📇 | **[4kub.ru](https://4kub.ru)** | My own product site (4KUB CRM) | Design, build, ongoing SEO |
-| 🕵️ | **[shtirletzsled.ru](https://shtirletzsled.ru)** | My own product site | Design, copy, structured data, IndexNow, ongoing SEO |
-| 🧭 | **[flada.pages.dev](https://flada.pages.dev)** | My own product site | Design and build |
+| | Website | What it is | My role | What I did |
+|:-:|---|---|:-:|---|
+| 🏗️ | **[gkverum.ru](https://gkverum.ru)** | Renovation company, Krasnodar | ![Creator](https://img.shields.io/badge/Creator-7c3aed?style=flat-square) ![SEO](https://img.shields.io/badge/SEO-22c55e?style=flat-square) | Created the whole site from scratch and run its SEO: custom **WordPress block theme + PHP plugin**, JSON-LD structured data, sitemaps, `llms.txt` for AI search, analytics goals, Python deploy tooling |
+| ⚖️ | **[gavrilovmv.ru](https://gavrilovmv.ru)** | Accounting & legal firm | ![SEO](https://img.shields.io/badge/SEO-22c55e?style=flat-square) | SEO/GEO/AEO audit and fixes: **site audit score 17 → 75 / 100**, a new blog and case studies, Google Search Console + Yandex Webmaster set up |
+| 🧖 | **[банныймаркетинг.рф](https://xn--80aabkjsejqiag9a4a2k.xn--p1ai/)** | Marketing agency for bathhouse & thermal spa complexes | ![SEO](https://img.shields.io/badge/SEO-22c55e?style=flat-square) | Ongoing SEO, analytics, lead forms connected to email and a Telegram bot |
+| 🔴 | **[book-red-light.pages.dev](https://book-red-light.pages.dev)** | Red-light therapy studio, Indianapolis | ![Creator](https://img.shields.io/badge/Creator-7c3aed?style=flat-square) | **Booking system** in React + Supabase (auth, row-level security, realtime slots) that the studio and its clients use every day |
+| 📇 | **[4kub.ru](https://4kub.ru)** | My own product site (4KUB CRM) | ![Creator](https://img.shields.io/badge/Creator-7c3aed?style=flat-square) ![SEO](https://img.shields.io/badge/SEO-22c55e?style=flat-square) | Design, build, ongoing SEO |
+| 🕵️ | **[shtirletzsled.ru](https://shtirletzsled.ru)** | My own product site | ![Creator](https://img.shields.io/badge/Creator-7c3aed?style=flat-square) ![SEO](https://img.shields.io/badge/SEO-22c55e?style=flat-square) | Design, copy, structured data, IndexNow, ongoing SEO |
+| 🧭 | **[flada.pages.dev](https://flada.pages.dev)** | My own product site | ![Creator](https://img.shields.io/badge/Creator-7c3aed?style=flat-square) | Design and build |
 
 ![SEO](https://img.shields.io/badge/SEO-technical_%2B_content-22c55e?style=flat-square)
 ![GEO](https://img.shields.io/badge/GEO%2FAEO-AI_search_visibility-7c3aed?style=flat-square)
