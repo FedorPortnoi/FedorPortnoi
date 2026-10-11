@@ -95,7 +95,7 @@ B2B due-diligence SaaS for HR and security teams. Type in a person or a company 
 
 An **iMessage agent** that checks a store before you pay. Text it a link or a screenshot of an ad and you get one of three answers: **Legit / Not legit / Couldn't check**, each with proof.
 
-🎬 [Watch the demo](https://youtu.be/lC-Tzfy0XLs) · 🏆 [Devpost](https://devpost.com/software/brand-guard)
+🎬 [Watch the demo](https://youtu.be/IBEbEr2L35k) · 🏆 [Devpost](https://devpost.com/software/brand-guard)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![iMessage](https://img.shields.io/badge/iMessage_agent-34C759?style=flat-square&logo=imessage&logoColor=white)
