@@ -157,25 +157,7 @@ Client work: I build the sites and handle **SEO / GEO / AEO** (getting found on 
 ## 🧰 Tech I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css,react,nodejs,tailwind,flask,postgres,sqlite,supabase,prisma&perline=14" alt="Languages and frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,cloudflare,git,github,githubactions,wordpress,vite,figma,vscode,apple,androidstudio,sklearn&perline=14" alt="Tools and infrastructure" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5B25?style=flat-square" />
-  <img src="https://img.shields.io/badge/NetworkX-2C5BB4?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/systemd-30D475?style=flat-square" />
-  <img src="https://img.shields.io/badge/App_Store_Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
-  <img src="https://img.shields.io/badge/EAS-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,php,linux,postgres" alt="Python, PHP, Linux, PostgreSQL" />
 </p>
 
 ---
